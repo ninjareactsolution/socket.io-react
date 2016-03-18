@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/sergiodxa/socket.io-react/issues"
   },
-  "homepage": "https://github.com/sergiodxa/socket.io-react#readme",
+  "homepage": "http://sergio.xalambri.com.ar/socket.io-react/",
   "devDependencies": {
     "babel": "6.5.2",
     "babel-cli": "6.6.5",
